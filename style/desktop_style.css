@@ -18,9 +18,20 @@ header>a:not(.not){
 nav{
     display: none;
 }
-
-main{
-    background: red;
+.mainindex{
+    justify-content: left;
+    background-position-x: 50%;
+}
+.contener{
+    margin: 10%;
+    text-align: left;
+}
+.fs{
+    padding-top: 20%;
+}
+.contener>p{
+    color: white;
+    font-size: 1em;
 }
 
 /* ************************************************************ */
@@ -103,16 +114,7 @@ main{
     margin: 30px;
 }
 .contact{
-    background: black;
-    background-image: url(../img/back_cont.jpg);
-    background-size: cover;
-    background-repeat: no-repeat;
-    background-position-x: 300px;
-    height: 100vh;
-    margin: 0px;
-    padding-top: 150px;
-    display: flex;
-    justify-content: left;
-    align-items: center;
+    background-position-x: 20%;
+    background-position-y: 20%;
 }
 /* ************************************************************ */
