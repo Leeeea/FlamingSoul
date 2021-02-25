@@ -346,12 +346,14 @@ input[type="text"]{
     height: 40px;
     width: 100%;
     border-radius: 20px;
+    outline:none;
 }
 textarea{
     border: None;
     height: 100px;
     width: 100%;
     border-radius: 20px;
+    outline:none;
 }
 
 form>div{
@@ -372,7 +374,7 @@ button{
     padding: 10px;
     margin: 30px;
     border-radius: 20px;
-    outline:none
+    outline:none;
 }
 label{
     margin: 10px;
