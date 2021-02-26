@@ -119,6 +119,9 @@ h2{
     background: linear-gradient(rgb(166, 0, 255), red);
     transition: 0.4s;
 }
+.instagram{
+    margin: 20px;
+}
 /* ************************************************************ */
 .mainindex{
     height: 100vh;
